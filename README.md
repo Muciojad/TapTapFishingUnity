@@ -1,7 +1,7 @@
 # TapTapFishing - Unity remake
 ## Overview
 Originally TapTapFishing was written in JS with PhaserJS.
-When I definitely switched to Unity engine, I decided this game should be rewritten to C# and Unity, and this day finally came.
+When I definitely switched to Unity engine, I decided this game should be rewritten to C# and Unity for my own training, and this day finally came.
 ### About gameplay
 This thing is super simple - you've 3 fishing rods with 3 bait slots on every single rod. On fishing rod is one bait that you can switch between slots, so you can catch fishes on three heights.
 There are 3 kinds of fishes: green, blue and red.
