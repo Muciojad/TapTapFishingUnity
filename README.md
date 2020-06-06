@@ -11,7 +11,7 @@ You lose when you all fishing rods are broken.
 
 ### Technicals
 Comparing to JS version, I managed to write a lot cleaner code.
-I used object poolers for reusing objects and decreasing gc allocations, PubSub system for emitting and receiving events, singletons to keep core systems available as single objects providing their functionality everywhere if is needed.
+I used object poolers for reusing objects and decreasing gc allocations, PubSub system for emitting and receiving events, ~~singletons to keep core systems available as single objects providing their functionality everywhere if is needed.~~  IT WAS A MISTAKE. I HATE CLASSIC SINGLETONS *~2020 edit.*
 
 I tried to keep first SOLID principle about single responsibility, and I think in most places I did it with success.
 
